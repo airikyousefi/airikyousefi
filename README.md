@@ -9,6 +9,7 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/airikyousefi?tab=followers"><img src="https://img.shields.io/github/followers/airikyousefi?label=Follow&style=flat-square&color=c91522&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=airikyousefi&style=flat-square&color=ff5c6c&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-SEO_%26_Growth-62dc87?style=flat-square&logo=trendingup&logoColor=082b17" alt="Focus" />
   <img src="https://img.shields.io/badge/Based_in-Tehran,_Iran-f4c452?style=flat-square&logo=locationmarker&logoColor=8a2029" alt="Location" />
@@ -16,6 +17,10 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5C6C&center=true&vCenter=true&width=660&height=70&lines=Web+Designer+for+Brand+Growth;WordPress+%7C+ASP.NET+%7C+C%23+%7C+SEO;5%2B+Years+of+Experience+%E2%80%A2+50%2B+Projects;Be+seen+on+Google.+Get+customers." alt="typing intro" />
+</div>
+
+<div align="center">
+  <sub>⭐ If my work helps you, a <strong>follow</strong> means a lot — new projects &amp; free resources land here first.</sub>
 </div>
 
 ---
@@ -100,6 +105,19 @@ E-commerce, funnels and user journeys designed to convert visitors into customer
 
 Want the full stories? Explore all case studies at [airikyousefi.ir/portfolio](https://airikyousefi.ir/portfolio/).
 
+### 🏗️ Selected Client Work
+
+A few of the **24+ projects** I've designed & shipped for real businesses:
+
+| Client Project | Type | Live |
+|---|---|---|
+| **سیلا — Silla** | Office furniture website | [newtheme.silla-co.com](https://newtheme.silla-co.com/) |
+| **لاجیکالا — Logickala** | Industrial automation e-commerce | [logickala.com](https://logickala.com/) |
+| **کانی سنگ امیران** | Industrial minerals website | [ksamiran.ir](https://ksamiran.ir/) |
+| **البرز پرشین — Alborz Persian** | Furniture e-commerce | [alborzpersian.com](https://alborzpersian.com/) |
+| **زرگرساز — Zargarsaaz** | Goldsmith training website | [zargarsaaz.ir](https://zargarsaaz.ir/) |
+| **آکادمی فوتبال مسعود** | Football academy website | [academymasoud.ir](https://academymasoud.ir/) |
+
 ### ⚡ Tech Stack
 
 <div align="center">
@@ -112,6 +130,10 @@ Want the full stories? Explore all case studies at [airikyousefi.ir/portfolio](h
   ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
   ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-ff5c6c?style=flat-square&logo=figma&logoColor=white)
 </div>
+
+### 📚 Free Resource
+
+> **[seo-speed-checklist-fa](https://github.com/airikyousefi/seo-speed-checklist-fa)** — چک‌لیست فارسی سئو و سرعت سایت — the practical pre-launch checklist I run on every client project. Free to use; star it if it helps you!
 
 ### 📊 GitHub Stats
 
