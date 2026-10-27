@@ -1,0 +1,35 @@
+name: Daily Web Tip
+
+on:
+  schedule:
+    - cron: "30 17 * * *" # 21:00 Asia/Tehran (UTC+3:30)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-tip
+  cancel-in-progress: false
+
+jobs:
+  daily-tip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Rotate daily tip in README
+        run: python3 .github/scripts/update_daily_tip.py
+
+      - name: Commit & push (only if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes - skipping commit"
+          else
+            git commit -m "tip: rotate daily web tip"
+            git push
+          fi
