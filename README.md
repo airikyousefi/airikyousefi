@@ -23,6 +23,14 @@
   <sub>⭐ If my work helps you, a <strong>follow</strong> means a lot — new projects &amp; free resources land here first.</sub>
 </div>
 
+<!-- DAILY-TIP:START -->
+> 💡 **Today's Web Tip** — نکتهٔ روز
+>
+> Convert images to WebP — up to 70% smaller.
+>
+> تصاویر را همیشه WebP کن؛ تا ۷۰٪ حجم کم می‌شود.
+<!-- DAILY-TIP:END -->
+
 ---
 
 ### 🚀 About Me
