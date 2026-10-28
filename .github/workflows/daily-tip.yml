@@ -24,8 +24,9 @@ jobs:
 
       - name: Commit & push (only if changed)
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Commit as the repo owner so daily commits count on the profile contribution graph
+          git config user.name "airikyousefi"
+          git config user.email "151173628+airikyousefi@users.noreply.github.com"
           git add README.md
           if git diff --cached --quiet; then
             echo "No changes - skipping commit"
