@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Convert images to WebP — up to 70% smaller.
+> One H1 per page; use H2 and H3 for the rest.
 >
-> تصاویر را همیشه WebP کن؛ تا ۷۰٪ حجم کم می‌شود.
+> هر صفحه فقط یک H1 داشته باشد؛ بقیه H2 و H3.
 <!-- DAILY-TIP:END -->
 
 ---
