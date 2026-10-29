@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> One H1 per page; use H2 and H3 for the rest.
+> Load fonts with font-display: swap so text never waits.
 >
-> هر صفحه فقط یک H1 داشته باشد؛ بقیه H2 و H3.
+> فونت‌ها را با font-display: swap لود کن تا متن عقب نیفتد.
 <!-- DAILY-TIP:END -->
 
 ---
