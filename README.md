@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Load fonts with font-display: swap so text never waits.
+> Add rel="noopener" to external links.
 >
-> فونت‌ها را با font-display: swap لود کن تا متن عقب نیفتد.
+> لینک‌های خارجی را با rel="noopener" امن کن.
 <!-- DAILY-TIP:END -->
 
 ---
