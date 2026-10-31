@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Add rel="noopener" to external links.
+> Test your site on mobile data, not Wi-Fi.
 >
-> لینک‌های خارجی را با rel="noopener" امن کن.
+> قبل از انتشار، سایت را با اینترنت موبایل تست کن، نه وای‌فای.
 <!-- DAILY-TIP:END -->
 
 ---
