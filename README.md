@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Test your site on mobile data, not Wi-Fi.
+> Every second of load time costs you conversions.
 >
-> قبل از انتشار، سایت را با اینترنت موبایل تست کن، نه وای‌فای.
+> هر ثانیه تأخیر در لود، یعنی افت چشمگیر تبدیل مشتری.
 <!-- DAILY-TIP:END -->
 
 ---
