@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Every second of load time costs you conversions.
+> One primary keyword per page is enough.
 >
-> هر ثانیه تأخیر در لود، یعنی افت چشمگیر تبدیل مشتری.
+> برای هر صفحه یک کلمهٔ کلیدی اصلی کافی است.
 <!-- DAILY-TIP:END -->
 
 ---
