@@ -2,7 +2,8 @@ name: Daily Web Tip
 
 on:
   schedule:
-    - cron: "30 17 * * *" # 21:00 Asia/Tehran (UTC+3:30)
+    - cron: "30 17 * * *" # 21:00 Asia/Tehran (UTC+3:30) - primary
+    - cron: "0 23 * * *"  # 02:30 Asia/Tehran next day - backup (GitHub drops ~1/5 scheduled runs)
   workflow_dispatch:
 
 permissions:
