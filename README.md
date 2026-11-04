@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> One primary keyword per page is enough.
+> Use SVG logos — sharp at every size.
 >
-> برای هر صفحه یک کلمهٔ کلیدی اصلی کافی است.
+> لوگو را با SVG بگذار تا در هر اندازه شارپ بماند.
 <!-- DAILY-TIP:END -->
 
 ---
