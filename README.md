@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Use SVG logos — sharp at every size.
+> Keep forms short — every extra field costs leads.
 >
-> لوگو را با SVG بگذار تا در هر اندازه شارپ بماند.
+> فرم‌ها را کوتاه نگه دار؛ هر فیلد اضافه یعنی مشتری کمتر.
 <!-- DAILY-TIP:END -->
 
 ---
