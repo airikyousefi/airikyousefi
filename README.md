@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Keep forms short — every extra field costs leads.
+> Your primary CTA should be visible without scrolling.
 >
-> فرم‌ها را کوتاه نگه دار؛ هر فیلد اضافه یعنی مشتری کمتر.
+> دکمهٔ اصلی (CTA) باید بدون اسکرول دیده شود.
 <!-- DAILY-TIP:END -->
 
 ---
