@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Your primary CTA should be visible without scrolling.
+> LocalBusiness schema tells Google who and where you are.
 >
-> دکمهٔ اصلی (CTA) باید بدون اسکرول دیده شود.
+> اسکیمای LocalBusiness به گوگل می‌فهماند کی هستی و کجایی.
 <!-- DAILY-TIP:END -->
 
 ---
