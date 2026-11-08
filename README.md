@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> LocalBusiness schema tells Google who and where you are.
+> Lazy-load below-the-fold images — never your LCP hero.
 >
-> اسکیمای LocalBusiness به گوگل می‌فهماند کی هستی و کجایی.
+> lazy-load فقط برای تصاویر پایین صفحه؛ تصویر اصلی (LCP) هرگز.
 <!-- DAILY-TIP:END -->
 
 ---
