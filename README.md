@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Lazy-load below-the-fold images — never your LCP hero.
+> Keep PHP updated — speed and security together.
 >
-> lazy-load فقط برای تصاویر پایین صفحه؛ تصویر اصلی (LCP) هرگز.
+> نسخهٔ PHP هاست را به‌روز نگه دار؛ سرعت و امنیت با هم.
 <!-- DAILY-TIP:END -->
 
 ---
