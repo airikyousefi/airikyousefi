@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Keep PHP updated — speed and security together.
+> Inactive plugins are still a risk — delete them.
 >
-> نسخهٔ PHP هاست را به‌روز نگه دار؛ سرعت و امنیت با هم.
+> افزونهٔ غیرفعال هم ریسک امنیتی دارد؛ حذفش کن.
 <!-- DAILY-TIP:END -->
 
 ---
