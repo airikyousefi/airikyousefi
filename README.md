@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Inactive plugins are still a risk — delete them.
+> Keep at least 30 days of automatic backups.
 >
-> افزونهٔ غیرفعال هم ریسک امنیتی دارد؛ حذفش کن.
+> حداقل ۳۰ روز بکاپ خودکار روزانه نگه دار.
 <!-- DAILY-TIP:END -->
 
 ---
