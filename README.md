@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Keep at least 30 days of automatic backups.
+> C#: prefer string interpolation over concatenation.
 >
-> حداقل ۳۰ روز بکاپ خودکار روزانه نگه دار.
+> در C# از string interpolation استفاده کن؛ تمیزتر و سریع‌تر.
 <!-- DAILY-TIP:END -->
 
 ---
