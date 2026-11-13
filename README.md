@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> C#: prefer string interpolation over concatenation.
+> async/await frees threads and boosts ASP.NET throughput.
 >
-> در C# از string interpolation استفاده کن؛ تمیزتر و سریع‌تر.
+> async/await در ASP.NET تردها را آزاد و throughput را بالا می‌برد.
 <!-- DAILY-TIP:END -->
 
 ---
