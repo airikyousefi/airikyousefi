@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> async/await frees threads and boosts ASP.NET throughput.
+> EF: use AsNoTracking for read-only queries.
 >
-> async/await در ASP.NET تردها را آزاد و throughput را بالا می‌برد.
+> در Entity Framework برای کوئری فقط‌خواندنی از AsNoTracking استفاده کن.
 <!-- DAILY-TIP:END -->
 
 ---
