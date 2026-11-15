@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> EF: use AsNoTracking for read-only queries.
+> Index the columns you filter on — not every column.
 >
-> در Entity Framework برای کوئری فقط‌خواندنی از AsNoTracking استفاده کن.
+> روی ستون‌هایی ایندکس بزن که در WHERE می‌آیند، نه همهٔ ستون‌ها.
 <!-- DAILY-TIP:END -->
 
 ---
