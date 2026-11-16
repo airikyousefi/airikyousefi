@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Index the columns you filter on — not every column.
+> Check Google Search Console weekly.
 >
-> روی ستون‌هایی ایندکس بزن که در WHERE می‌آیند، نه همهٔ ستون‌ها.
+> هفته‌ای یک بار Search Console را چک کن.
 <!-- DAILY-TIP:END -->
 
 ---
