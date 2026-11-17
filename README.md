@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Check Google Search Console weekly.
+> Find 404s in Search Console and 301 them.
 >
-> هفته‌ای یک بار Search Console را چک کن.
+> خطاهای 404 را در سرچ کنسول پیدا کن و ریدایرکت 301 بزن.
 <!-- DAILY-TIP:END -->
 
 ---
