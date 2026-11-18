@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Find 404s in Search Console and 301 them.
+> Keep page titles under ~60 characters.
 >
-> خطاهای 404 را در سرچ کنسول پیدا کن و ریدایرکت 301 بزن.
+> عنوان صفحات مهم را زیر ۶۰ کاراکتر نگه دار.
 <!-- DAILY-TIP:END -->
 
 ---
