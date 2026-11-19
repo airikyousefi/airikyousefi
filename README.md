@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Keep page titles under ~60 characters.
+> Judge speed by mobile PageSpeed, not desktop.
 >
-> عنوان صفحات مهم را زیر ۶۰ کاراکتر نگه دار.
+> سرعت را با PageSpeed نسخهٔ موبایل بسنج، نه دسکتاپ.
 <!-- DAILY-TIP:END -->
 
 ---
