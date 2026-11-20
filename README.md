@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Judge speed by mobile PageSpeed, not desktop.
+> CLS usually comes from images without width/height.
 >
-> سرعت را با PageSpeed نسخهٔ موبایل بسنج، نه دسکتاپ.
+> CLS معمولاً از تصویر بدون width و height می‌آید.
 <!-- DAILY-TIP:END -->
 
 ---
