@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> CLS usually comes from images without width/height.
+> Cache static assets for at least one month.
 >
-> CLS معمولاً از تصویر بدون width و height می‌آید.
+> کش مرورگر برای فایل‌های استاتیک حداقل یک ماه.
 <!-- DAILY-TIP:END -->
 
 ---
