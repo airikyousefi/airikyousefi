@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Cache static assets for at least one month.
+> Keep mobile menus under 5 items.
 >
-> کش مرورگر برای فایل‌های استاتیک حداقل یک ماه.
+> منوی موبایل بیشتر از ۵ آیتم نباشد.
 <!-- DAILY-TIP:END -->
 
 ---
