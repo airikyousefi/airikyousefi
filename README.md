@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Keep mobile menus under 5 items.
+> Low text contrast kills readability and retention.
 >
-> منوی موبایل بیشتر از ۵ آیتم نباشد.
+> کنتراست پایین متن = خوانایی کم = خروج کاربر.
 <!-- DAILY-TIP:END -->
 
 ---
