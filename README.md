@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Low text contrast kills readability and retention.
+> Make phone and WhatsApp links clickable.
 >
-> کنتراست پایین متن = خوانایی کم = خروج کاربر.
+> شماره تلفن و واتساپ باید کلیک‌خور باشند.
 <!-- DAILY-TIP:END -->
 
 ---
