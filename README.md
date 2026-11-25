@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Make phone and WhatsApp links clickable.
+> Broken HTTPS warnings destroy trust instantly.
 >
-> شماره تلفن و واتساپ باید کلیک‌خور باشند.
+> اخطار قفل سبز HTTPS یعنی نصف اعتماد از دست رفته.
 <!-- DAILY-TIP:END -->
 
 ---
