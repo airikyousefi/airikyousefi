@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Broken HTTPS warnings destroy trust instantly.
+> Normalize Persian half-spaces and spellings — search cares.
 >
-> اخطار قفل سبز HTTPS یعنی نصف اعتماد از دست رفته.
+> نیم‌فاصله و املای فارسی را یکدست کن؛ جست‌وجو حساس است.
 <!-- DAILY-TIP:END -->
 
 ---
