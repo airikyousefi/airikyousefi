@@ -26,9 +26,9 @@
 <!-- DAILY-TIP:START -->
 > 💡 **Today's Web Tip** — نکتهٔ روز
 >
-> Normalize Persian half-spaces and spellings — search cares.
+> Beat the current #1 with better content, not longer content.
 >
-> نیم‌فاصله و املای فارسی را یکدست کن؛ جست‌وجو حساس است.
+> بهتر از رتبهٔ ۱ فعلی بنویس، نه فقط طولانی‌تر.
 <!-- DAILY-TIP:END -->
 
 ---
